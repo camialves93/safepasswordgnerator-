@@ -21,7 +21,7 @@ As bibliotecas utilizadas foram:
 
 ##  Ferramentas disponíveis
 
-###  Primeira opção: Safe Password Generator NIST (NIST 800-63B rules)
+###  Primeira opção: Safe Password Generator NIST (NIST 800-63B)
 
 Nesta ferramenta seguimos os padrões sugeridos pela NIST 800-63B:
 
